@@ -23,7 +23,7 @@
             </div>
 
             <!-- Header: Right side -->
-            <div class="flex items-center space-x-3">
+            {{-- <div class="flex items-center space-x-3">
 
                 <!-- Search Button with Modal -->
                 <x-modal-search />
@@ -43,7 +43,7 @@
                 <!-- User button -->
                 <x-dropdown-profile align="right" />
 
-            </div>
+            </div> --}}
 
         </div>
     </div>
